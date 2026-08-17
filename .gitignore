@@ -1,0 +1,29 @@
+# Secrets and local configuration: never commit
+.env
+.env.*
+!.env.example
+.guard-banlist.local
+your-org.md
+*.local.yaml
+*.local.yml
+*.local.json
+*.local.md
+
+# Runtime state, logs, caches
+state/
+*.log
+.cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# au-jobs: raw downloaded source files, regenerate with fetch.py
+data/raw/
+
+# Environments
+.venv/
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db

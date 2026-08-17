@@ -1,0 +1,2186 @@
+{
+  "1111": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Significant portions of daily work - data analysis, report summarising, draft communications, financial forecasting, and strategic documentation - overlap with current AI capabilities, but human judgment, accountability for high-stakes decisions, and stakeholder relationships remain essential to the role.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:53:28Z"
+  },
+  "1112": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Mix of desk-based planning and data analysis with significant on-site operational oversight, staff management, and real-time decisions that require human presence and judgment.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:24:34Z"
+  },
+  "1113": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Policy research, legislative drafting, and correspondence benefit from AI assistance, but debate, political persuasion, and constituent judgment are central and irreducibly human.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:24:34Z"
+  },
+  "1211": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Day-to-day work centres on monitoring water systems, managing animal health, harvesting, and equipment maintenance, with only minor record-keeping that AI can assist.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:24:34Z"
+  },
+  "1213": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Livestock handling, breeding decisions, health assessment, and pasture management are hands-on and situational; minimal AI exposure beyond basic record-keeping.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:24:34Z"
+  },
+  "1215": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Crop planning, financial forecasting, and yield analysis invite AI support, but physical operation of equipment, weather response, and in-field observation remain core.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:24:34Z"
+  },
+  "1216": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Hands-on cultivation, pruning, harvesting, and quality assessment dominate; production planning and record-keeping are secondary.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:24:34Z"
+  },
+  "1217": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Combination of livestock handling, crop management, and equipment operation is primarily physical; planning and financial record-keeping are minor tasks.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:24:34Z"
+  },
+  "1311": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Campaign strategy, content planning, performance analysis, and budget forecasting are desk-based and information-heavy, though client relationship management and creative judgment remain anchors.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:24:34Z"
+  },
+  "1321": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Facilities planning, vendor management, compliance tracking, and process optimisation mix desk-based tasks with operational decision-making and stakeholder management requiring human judgment.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:24:34Z"
+  },
+  "1322": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Financial analysis, forecasting, budgeting, and strategic planning are core desk work where AI tools can assist significantly, though accountability and strategic judgment anchor the role.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:24:34Z"
+  },
+  "1323": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Policy drafting, compliance documentation, and recruitment planning benefit from AI, but employee relations, conflict resolution, and people judgment are irreducibly human.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:24:34Z"
+  },
+  "1324": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Research, policy analysis, scenario modelling, and documentation are the primary work and align closely with AI capabilities, though stakeholder negotiation provides some human anchor.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:24:34Z"
+  },
+  "1325": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Technical evaluation, project planning, documentation, and strategic oversight are desk-based and information-heavy, but technical judgment and team leadership remain core.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:24:34Z"
+  },
+  "1331": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Site supervision, resource coordination, real-time problem-solving, and risk management require on-site presence; planning and compliance work are secondary.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:24:34Z"
+  },
+  "1332": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Technical oversight, project planning, documentation, and resource management are largely desk-based and analytical, though technical judgment and team leadership anchor accountability.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:24:34Z"
+  },
+  "1333": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Supply chain planning, logistics analysis, and financial management invite AI assistance, but vendor negotiation, market judgment, and customer relationships remain central.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:24:34Z"
+  },
+  "1334": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Production planning, quality analysis, and resource forecasting are information work, but operational oversight, equipment decisions, and customer relations require human presence and judgment.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:24:34Z"
+  },
+  "1335": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Floor presence for quality oversight, safety supervision, and real-time production decisions limits AI exposure despite administrative planning work.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:25:51Z"
+  },
+  "1336": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Demand forecasting, vendor analysis, procurement systems, and inventory optimization are largely information-driven tasks where AI tools excel.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:25:51Z"
+  },
+  "1341": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Regulatory compliance, parent relations, and facility management require substantial in-person presence despite administrative scheduling work.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:25:51Z"
+  },
+  "1342": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Service planning and quality reporting benefit from AI, but clinical oversight and personnel management anchor this role in human judgment.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:25:51Z"
+  },
+  "1343": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Educational leadership, staff management, and community engagement require in-person judgment despite administrative planning and budgeting.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:25:51Z"
+  },
+  "1344": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Curriculum design, staff coordination, and educational strategy involve substantial pedagogical and interpersonal judgment alongside administrative work.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:25:51Z"
+  },
+  "1351": {
+    "model": "claude-cli (haiku)",
+    "rationale": "System management, technical decision-making, infrastructure planning, and vendor coordination are primarily information-based tasks.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:25:51Z"
+  },
+  "1391": {
+    "model": "claude-cli (haiku)",
+    "rationale": "High-stakes command decisions, personnel leadership, and on-site presence requirements substantially constrain AI exposure despite administrative work.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:25:51Z"
+  },
+  "1392": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Field-based personnel supervision, tactical coordination, and situational leadership require on-site presence and interpersonal judgment.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:25:51Z"
+  },
+  "1399": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Specialist managers balance administrative, planning, and strategic work with oversight and accountability requirements that require human judgment.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:25:51Z"
+  },
+  "1411": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Customer service, staff supervision, operational troubleshooting, and on-site management require substantial floor presence.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:25:51Z"
+  },
+  "1412": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Guest interaction, facility maintenance oversight, and on-site customer service require substantial presence despite reservation systems.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:25:51Z"
+  },
+  "1413": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Guest relations, operations coordination, and on-site facility management require presence and judgment alongside administrative systems work.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:25:51Z"
+  },
+  "1414": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Member relations, event coordination, and on-site management require substantial interpersonal presence despite financial and administrative systems.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:25:51Z"
+  },
+  "1419": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Hospitality roles generally require customer interaction and on-site presence for service delivery and operational crisis management.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:25:51Z"
+  },
+  "1421": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Floor supervision, customer service, visual merchandising, and staff interaction require substantial on-site presence and real-time judgment.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:25:51Z"
+  },
+  "1491": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Member relations, program delivery, and facility management require on-site presence and interpersonal engagement.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:25:51Z"
+  },
+  "1492": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Scheduling, quality assurance, performance analytics, and workflow optimization are largely system-driven tasks where AI assists significantly.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:25:51Z"
+  },
+  "1493": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Event planning, vendor coordination, budgeting, and registration management are mostly desk-based information work where AI can assist substantially, though in-person client relationships and on-site coordination remain core.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:26:53Z"
+  },
+  "1494": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Mix of desk-based scheduling, route planning, and cost analysis where AI assists, alongside operational oversight and real-time decision-making requiring human presence and judgment.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:26:53Z"
+  },
+  "1499": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Blend of roster management, inventory ordering, and financial reporting where AI can help, with necessary in-person staff and customer interactions requiring human judgment.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:26:53Z"
+  },
+  "2111": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Live performance, embodied movement, and character interpretation are the core of this role and cannot be meaningfully assisted by current AI tools.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:26:53Z"
+  },
+  "2112": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Musical performance and instrumental skill form the foundation, with AI potentially assisting in composition or arrangement but unable to replace live musicianship.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:26:53Z"
+  },
+  "2113": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Mix of creative framing and lighting decisions alongside image editing where AI tools can assist, but directed photography and client relationships remain essential.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:26:53Z"
+  },
+  "2114": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Handcraft and physical creation are central, though AI image generation can assist conceptualization and design ideation.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:26:53Z"
+  },
+  "2121": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Mix of production planning and coordination where AI assists alongside creative direction and live presentation requiring in-person judgment and relationships.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:26:53Z"
+  },
+  "2122": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Core output is written and edited prose where AI tools can generate first drafts and assist substantially with rewriting and structural decisions.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:26:53Z"
+  },
+  "2123": {
+    "model": "claude-cli (haiku)",
+    "rationale": "In-person creative direction and real-time decision-making with actors and crews cannot be meaningfully assisted by current AI tools.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:26:53Z"
+  },
+  "2124": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Writing, editing, research, and story structuring are primary tasks where AI can assist substantially, though investigation and fact-checking retain human responsibility.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:26:53Z"
+  },
+  "2211": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Financial data classification, reconciliation, and structured analysis are primarily desk-based information work where AI can assist with a large share of tasks.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:26:53Z"
+  },
+  "2212": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Compliance review, audit procedures, and financial documentation are desk-based information work where AI can assist, though judgment calls and accountability remain human.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:26:53Z"
+  },
+  "2221": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Mix of market research and analysis where AI assists alongside client consultation and relationship management requiring interpersonal judgment.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:26:53Z"
+  },
+  "2222": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Market analysis and position monitoring are desk-based where AI can assist substantially, though trading decisions and risk management require human accountability.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:26:53Z"
+  },
+  "2223": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Portfolio analysis and research can use AI assistance, but client consultation, relationship management, and investment decisions require human judgment and accountability.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:26:53Z"
+  },
+  "2231": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Recruitment screening, policy documentation, and compliance tracking are information work where AI assists significantly, though employee relations remain interpersonal.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:26:53Z"
+  },
+  "2233": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Course design and material creation can use AI assistance, but live instruction and coaching require in-person presence and interpersonal skill.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:26:53Z"
+  },
+  "2241": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Mathematical research and analysis rely heavily on symbolic computation, modeling, and research synthesis where AI assists significantly, though original theorem proving remains human-driven.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:27:40Z"
+  },
+  "2242": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Archival cataloging and metadata generation benefit from AI classification, but curatorial judgment about collection significance and preservation priorities require expert discretion.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:27:40Z"
+  },
+  "2243": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Economic analysis, forecasting, report writing, and data modeling are core AI strengths, though policy interpretation and macro judgment remain human-led.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:27:40Z"
+  },
+  "2244": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Intelligence analysis, information synthesis, pattern recognition, and structured reporting are primary AI capabilities, making this role particularly exposed to task transformation.",
+    "score": 8,
+    "scored_at": "2026-08-17T23:27:40Z"
+  },
+  "2245": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Property valuation combines field inspection and site judgment with analytical modeling, limiting exposure despite AI-driven comparable analysis and market forecasting.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:27:40Z"
+  },
+  "2246": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Library cataloging and user research assistance overlap with AI capabilities, though collection curation judgment and patron-specific guidance remain primarily human.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:27:40Z"
+  },
+  "2247": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Process documentation, workflow analysis, and recommendation drafting are AI-capable, but understanding organizational dynamics and change management judgment remain critical.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:27:40Z"
+  },
+  "2249": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Like other information professionals, classification, analysis, and reporting tasks benefit from AI, though contextual judgment varies by specific role.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:27:40Z"
+  },
+  "2251": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Copywriting, campaign ideation, market analysis, and content strategy are areas where AI excels, though strategic vision and creative direction remain human-driven.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:27:40Z"
+  },
+  "2252": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Sales relationships, technical explanation to non-expert clients, and needs assessment are interpersonal core; proposal and competitive analysis benefit from AI support.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:27:40Z"
+  },
+  "2253": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Media relations and stakeholder communication require human judgment, though press release drafting, message development, and content creation are increasingly AI-assisted.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:27:40Z"
+  },
+  "2254": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Technical product expertise and client relationship-building are core human work, though technical documentation and proposal generation benefit from AI assistance.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:27:40Z"
+  },
+  "2311": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Flight operations and real-time decision-making under safety-critical conditions remain entirely human-dependent despite AI support for pre-flight planning and analysis.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:27:40Z"
+  },
+  "2312": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Maritime operations and navigation require present, accountable human command despite AI navigation aids and route optimization assistance.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:27:40Z"
+  },
+  "2321": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Architectural design and visualization increasingly benefit from AI exploration tools, though client relationships, creative vision, and site-specific judgment remain human-driven.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:27:40Z"
+  },
+  "2322": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Field surveying and on-site measurement remain necessary despite AI-assisted data processing, mapping generation, and analysis reducing some analytical workload.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:27:40Z"
+  },
+  "2323": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Fashion and product design benefit from AI-generated visual concepts and technical drawings, but creative direction, material sourcing, and design judgment remain human.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:27:40Z"
+  },
+  "2324": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Graphic and web design work - visual content creation, layout, illustration - increasingly overlaps with AI image generation and design tools, though creative direction and UX judgment remain.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:27:40Z"
+  },
+  "2325": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Design work like space planning, mood boards, and material specification is largely desk-based and AI-assistable, though site visits and client relationships remain essential.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:29:25Z"
+  },
+  "2326": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Research, data analysis, and planning documentation are core desk tasks where AI can assist substantially, though stakeholder consultation requires human judgment.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:29:25Z"
+  },
+  "2331": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Work balances design and simulation (AI-assistable information tasks) with hands-on laboratory testing and production oversight requiring physical presence.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:29:25Z"
+  },
+  "2332": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Design, calculations, and specifications are desk-based tasks where AI can assist significantly, though site supervision and real-time problem-solving require human presence.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:29:25Z"
+  },
+  "2333": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Design and simulation workflows can benefit from AI assistance, but equipment testing, troubleshooting, and field commissioning require hands-on verification.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:29:25Z"
+  },
+  "2334": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Circuit design and simulation are AI-assistable, but prototyping, testing, and problem-solving still require hands-on work and physical presence.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:29:25Z"
+  },
+  "2335": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Process design, optimization, and planning are primarily desk-based information work where AI excels, though on-site commissioning remains necessary.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:29:25Z"
+  },
+  "2336": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Planning and analysis can benefit from AI support, but site supervision, safety oversight, and operational decisions require field presence.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:29:25Z"
+  },
+  "2339": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Engineering roles typically combine desk-based design and analysis (AI-assistable) with site work requiring human judgment and accountability.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:29:25Z"
+  },
+  "2341": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Field sampling and monitoring are core to the role, while AI can assist with literature review and analysis of collected data.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:29:25Z"
+  },
+  "2342": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Laboratory experimentation and hands-on testing are central, though AI can help with literature searches and analysis of experimental results.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:29:25Z"
+  },
+  "2343": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Field sampling and monitoring balance with data analysis and reporting, where AI can assist with interpretation and documentation.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:29:25Z"
+  },
+  "2344": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Field surveying and sample collection are essential, though AI can assist with data interpretation and modeling of findings.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:29:25Z"
+  },
+  "2345": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Laboratory experimentation is core to the role, though AI can support literature review, data analysis, and hypothesis generation.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:29:25Z"
+  },
+  "2346": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Laboratory research combines with substantial data analysis and manuscript writing, where AI can assist with experimental design and interpretation.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:29:25Z"
+  },
+  "2347": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Physical examination, diagnosis, treatment, and in-person consultation form the core work, with AI supporting diagnostic reasoning and record-keeping.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:29:25Z"
+  },
+  "2349": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Science roles typically combine field or laboratory work (often hands-on and essential) with analysis where AI can provide assistance.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:29:25Z"
+  },
+  "2411": {
+    "model": "claude-cli (haiku)",
+    "rationale": "In-person teaching, classroom management, and individual child assessment are core, with AI supporting lesson planning and parent communication.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:29:25Z"
+  },
+  "2412": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Classroom instruction and student management remain core, though lesson planning, grading, and parent communication are increasingly AI-assisted.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:30:31Z"
+  },
+  "2413": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Teaching and classroom management dominate, with assessment and planning that AI can help draft but judgment remains with the teacher.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:30:31Z"
+  },
+  "2414": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Content expertise and assessment are significant alongside classroom teaching, with AI capable of assisting with curriculum design, grading, and feedback drafts.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:30:31Z"
+  },
+  "2415": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Individualized student needs, behavior management, and one-on-one interaction dominate, limiting AI assistance despite planning and documentation components.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:30:31Z"
+  },
+  "2421": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Lecturing, research, marking, and curriculum work mix in-person teaching with desk-based tasks where AI increasingly assists, though the teaching judgment remains core.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:30:31Z"
+  },
+  "2422": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Demonstrating hands-on skills and supervising practical work comprises most of the role, though instructional planning and documentation can benefit from AI.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:30:31Z"
+  },
+  "2491": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Curriculum analysis, program evaluation, reporting, and recommendations are entirely desk-based work where AI can assist substantially with data synthesis and drafting.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:30:31Z"
+  },
+  "2492": {
+    "model": "claude-cli (haiku)",
+    "rationale": "One-on-one tutoring, lesson design, and progress tracking mirror school teachers' task distribution and constraints.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:30:31Z"
+  },
+  "2493": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Language instruction, proficiency assessment, and cultural responsiveness in teaching remain core, though curriculum design and documentation can use AI help.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:30:31Z"
+  },
+  "2511": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Client assessment and counseling require expertise, but meal planning, research, dietary analysis, and documentation increasingly benefit from AI tools.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:30:31Z"
+  },
+  "2512": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Operating imaging equipment and supervising patient safety are largely hands-on, though image analysis, report writing, and documentation can use AI assistance.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:30:31Z"
+  },
+  "2513": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Workplace assessment, risk analysis, regulatory compliance work, and reporting are predominantly desk-based analytical tasks where AI can contribute significantly.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:30:31Z"
+  },
+  "2514": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Eye examinations, manual refraction, and patient consultation are predominantly hands-on clinical work, with routine documentation the main AI-addressable task.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:30:31Z"
+  },
+  "2515": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Medication dispensing and patient consultation require expertise, while drug interaction checking, advisory work, and documentation increasingly benefit from AI assistance.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:30:31Z"
+  },
+  "2519": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Assessment, patient interaction, and personalized treatment planning dominate across this diverse group, with AI assistance mostly limited to reporting.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:30:31Z"
+  },
+  "2521": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Manual therapy delivery and patient examination comprise the bulk of work, leaving minimal scope for AI assistance beyond administrative documentation.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:30:31Z"
+  },
+  "2522": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Hands-on therapy delivery and patient consultation form the core work, minimizing opportunities for AI assistance except in scheduling and record-keeping.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:30:31Z"
+  },
+  "2523": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Dental procedures and patient management remain primarily hands-on, though treatment planning, charting, and administrative work can benefit from AI.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:30:31Z"
+  },
+  "2524": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Functional assessment, program design, and documentation; AI assists with note-taking and evidence gathering but cannot conduct hands-on evaluation.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:31:37Z"
+  },
+  "2525": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Clinical assessment, exercise prescription, manual therapy, and progress documentation; AI supports program design and outcome tracking but not patient examination.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:31:37Z"
+  },
+  "2526": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Diagnosis and procedures (nail care, orthotics, surgery) are hands-on work; AI aids diagnostic support and documentation but cannot perform clinical procedures.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:31:37Z"
+  },
+  "2527": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Assessment administration, therapy delivery, and progress monitoring; AI generates treatment materials and supports scoring but cannot conduct clinical sessions.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:31:37Z"
+  },
+  "2531": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Consultations, diagnosis, treatment decisions, and prescribing; AI assists with diagnostic support, documentation, and follow-up planning.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:31:37Z"
+  },
+  "2532": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Pre-operative assessment, intraoperative monitoring, and pharmacological management are hands-on clinical work; AI supports planning and documentation but not live monitoring.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:31:37Z"
+  },
+  "2533": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Consultations, specialized diagnosis, treatment planning, and sometimes procedures; AI assists with diagnostic reasoning and documentation but requires physician judgment.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:31:37Z"
+  },
+  "2534": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Patient interviews, diagnostic assessment, treatment planning, and medication management require clinical judgment; AI supports documentation and treatment frameworks.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:31:37Z"
+  },
+  "2535": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Pre-operative planning, surgical procedures, and post-operative management; AI aids imaging analysis and planning but cannot perform surgery or manage intraoperative emergencies.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:31:37Z"
+  },
+  "2539": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Consultations, diagnosis, and treatment decisions similar to other medical practitioners; AI assists with documentation and clinical decision support.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:31:37Z"
+  },
+  "2541": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Antenatal assessment, labour management, and delivery are hands-on clinical work; AI supports documentation and patient education but not clinical management during birth.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:31:37Z"
+  },
+  "2542": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Curriculum design, content creation, teaching, and research; AI generates educational materials and synthesizes research substantially.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:31:37Z"
+  },
+  "2543": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Scheduling, performance management, resource allocation, and reporting; AI automates scheduling, generates reports, and supports data analysis significantly.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:31:37Z"
+  },
+  "2544": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Patient care, medication administration, monitoring, and communication are hands-on work; AI aids documentation and care planning but not bedside care.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:31:37Z"
+  },
+  "2611": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Requirements analysis, process documentation, system design, and recommendations; AI generates analysis and design documentation substantially.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:31:37Z"
+  },
+  "2612": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Design, coding, content creation, and testing are largely digital output; AI generates code, designs, and creative assets for substantial portions of work.",
+    "score": 8,
+    "scored_at": "2026-08-17T23:31:37Z"
+  },
+  "2613": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Coding, debugging, testing, and design; AI generates code and test cases for substantial portions of typical work.",
+    "score": 8,
+    "scored_at": "2026-08-17T23:31:37Z"
+  },
+  "2621": {
+    "model": "claude-cli (haiku)",
+    "rationale": "System administration, security configuration, monitoring, scripting, and documentation; AI assists with script generation and troubleshooting but requires hands-on implementation.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:31:37Z"
+  },
+  "2631": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Network design, configuration planning, and documentation are increasingly AI-assisted, but hands-on network implementation, complex troubleshooting, and security decision-making require substantial human expertise.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:33:20Z"
+  },
+  "2632": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Software testing, test documentation, log analysis, and troubleshooting support are tasks where AI tools can produce substantial first-pass work, though strategic test planning and complex technical judgment remain essential.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:33:20Z"
+  },
+  "2633": {
+    "model": "claude-cli (haiku)",
+    "rationale": "While telecommunications system design and planning have AI-assistance potential, most work involves hands-on implementation, equipment configuration, and on-site problem-solving requiring human expertise.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:33:20Z"
+  },
+  "2711": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Legal research, case preparation, and argument drafting are information-work tasks where AI provides significant assistance, but courtroom advocacy, witness examination, and persuasive performance remain fundamentally human skills.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:33:20Z"
+  },
+  "2712": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Legal analysis and research benefit from AI assistance, but the core work of interpreting law, evaluating evidence, and making judicial decisions requires human judgment and personal accountability.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:33:20Z"
+  },
+  "2713": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Contract drafting, legal research, document preparation, and client correspondence are largely information-work tasks where AI tools can generate substantial first-pass content.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:33:20Z"
+  },
+  "2721": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Counselling is fundamentally relational work requiring in-person presence, emotional responsiveness, and human judgment; administrative documentation exists but core tasks are interpersonal.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:33:20Z"
+  },
+  "2722": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Pastoral counselling, ceremonies, and community spiritual engagement are primarily in-person, relational work; though sermon preparation might benefit from AI, the core function requires human spiritual presence.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:33:20Z"
+  },
+  "2723": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Psychological assessment, testing interpretation, research, and report writing involve information-processing where AI assists significantly, but therapy delivery and nuanced client formulation require human judgment and presence.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:33:20Z"
+  },
+  "2724": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Community needs assessment and program planning include information-work components where AI assists, but service delivery, stakeholder engagement, and complex case coordination remain human-centered.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:33:20Z"
+  },
+  "2725": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Case documentation, needs assessment analysis, service coordination planning, and report writing are increasingly AI-assisted, though direct client support and complex case judgment require human expertise.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:33:20Z"
+  },
+  "2726": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Program delivery and community engagement are fundamentally in-person activities; while administrative planning exists, the core work is situational and relational.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:33:20Z"
+  },
+  "3111": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Field monitoring and equipment operation are hands-on tasks, though data analysis, crop and livestock performance documentation, and compliance reporting increasingly use AI tools.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:33:20Z"
+  },
+  "3112": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Medical test operation and specimen preparation are hands-on work, but data recording, quality control analysis, and medical report documentation are increasingly AI-assisted.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:33:20Z"
+  },
+  "3113": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Product inspection and compliance testing require physical presence and field judgment, though inspection data documentation and compliance analysis can benefit from AI assistance.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:33:20Z"
+  },
+  "3114": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Lab equipment operation and specimen handling are hands-on work, but experimental data analysis, technical documentation, and research report writing are increasingly AI-assisted.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:33:20Z"
+  },
+  "3121": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Technical drawing, documentation, and surveying analysis have significant AI-assistance potential, though hands-on site surveying, measurement, and on-site problem-solving remain primarily human work.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:33:20Z"
+  },
+  "3122": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Technical drawing, CAD work, documentation generation, and engineering planning are largely desk-based information work where AI can produce substantial first-pass outputs.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:33:20Z"
+  },
+  "3123": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Creating electrical schematics and technical drawings is largely desk-based CAD and documentation work that AI tools can assist with variant generation and specification drafting.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:34:09Z"
+  },
+  "3124": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Electronic engineering drawings and circuit documentation are primarily desk-based design work where AI can help generate variations and automate specification writing.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:34:09Z"
+  },
+  "3125": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Mechanical engineering drafting and CAD work is desk-based design and documentation that AI can assist with layout suggestions and technical specification automation.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:34:09Z"
+  },
+  "3126": {
+    "model": "claude-cli (haiku)",
+    "rationale": "On-site hazard assessment and safety judgment drive the role, but significant report writing, documentation, and compliance filing can be assisted by AI tools.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:34:09Z"
+  },
+  "3129": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Mix of on-site technical assessment and field work alongside documentation, coordination, and report writing that AI can help streamline.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:34:09Z"
+  },
+  "3131": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Troubleshooting, ticket management, knowledge documentation, and support responses are information-heavy tasks where AI can assist with drafting and organizing technical guidance.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:34:09Z"
+  },
+  "3132": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Mix of hands-on network installation and configuration alongside significant technical documentation, troubleshooting guides, and system documentation AI can help create.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:34:09Z"
+  },
+  "3211": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Diagnosing and repairing automotive electrical systems is mostly hands-on physical work with some diagnostic documentation that can be assisted by AI.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:34:09Z"
+  },
+  "3212": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Engine and motor repair is predominantly hands-on mechanical work with some diagnostic and service documentation amenable to AI assistance.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:34:09Z"
+  },
+  "3221": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Metal casting, forging, and finishing is almost entirely physical work with furnaces, machinery, and materials in a workshop environment.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:34:09Z"
+  },
+  "3222": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Sheetmetal fabrication and assembly is predominantly hands-on work with tools and machinery, with minimal desk-based information components.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:34:09Z"
+  },
+  "3223": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Structural steel welding and assembly is almost entirely hands-on work requiring physical presence and real-time judgment in safety-critical conditions.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:34:09Z"
+  },
+  "3231": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Aircraft maintenance involves hands-on repair alongside extensive technical documentation, compliance logging, and troubleshooting procedures AI can help organize and draft.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:34:09Z"
+  },
+  "3232": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Metal fitting, machining, and assembly is mostly hands-on operation of precision machinery with some technical documentation and measurement work.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:34:09Z"
+  },
+  "3233": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Precision metalwork and finishing is almost entirely hands-on craft work requiring fine motor control and real-time visual judgment.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:34:09Z"
+  },
+  "3234": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Tool and pattern making blends hands-on fabrication with CAD design and technical specification work that AI can assist with design iteration and documentation.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:34:09Z"
+  },
+  "3241": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Vehicle panel repair is predominantly hands-on work assessing and reforming damaged metal with minimal information-based components.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:34:09Z"
+  },
+  "3242": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Vehicle body building and trim assembly is mostly hands-on manufacturing and assembly work with limited desk-based documentation.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:34:09Z"
+  },
+  "3243": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Spray painting vehicle bodies is manual hands-on work; colour matching and documentation are secondary tasks.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:34:57Z"
+  },
+  "3311": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Laying bricks and stonework is entirely hands-on construction requiring physical placement and manual skill.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:34:57Z"
+  },
+  "3312": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Woodworking involves cutting, fitting and joining timber; mostly physical with minimal information processing.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:34:57Z"
+  },
+  "3321": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Installing and finishing flooring materials is physically demanding hands-on work.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:34:57Z"
+  },
+  "3322": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Surface painting and prep work is manual application; scheduling and documentation are minor components.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:34:57Z"
+  },
+  "3331": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Measuring, cutting and installing glass requires on-site physical work.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:34:57Z"
+  },
+  "3332": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Applying plaster and render finishes is manual construction work.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:34:57Z"
+  },
+  "3333": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Installing roof tiles requires physical placement in hazardous working conditions.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:34:57Z"
+  },
+  "3334": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Measuring, cutting and grouting tiles is hands-on installation work.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:34:57Z"
+  },
+  "3341": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Pipe fitting is physical work, but diagnosing and quoting plumbing problems involves meaningful problem-solving.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:34:57Z"
+  },
+  "3411": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Installation is physical, but diagnosing faults and designing circuits involves significant technical problem-solving.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:34:57Z"
+  },
+  "3421": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Servicing cooling systems involves physical work alongside technical troubleshooting of mechanical and electrical components.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:34:57Z"
+  },
+  "3422": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Installing electrical distribution infrastructure is largely physical work with some technical specification and safety documentation.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:34:57Z"
+  },
+  "3423": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Repairing electronics requires hands-on work plus technical diagnostics and component-level problem-solving.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:34:57Z"
+  },
+  "3424": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Installing telecom infrastructure is mostly physical work with some technical troubleshooting of connections and signal quality.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:34:57Z"
+  },
+  "3511": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Food preparation is hands-on physical work; recipe development and batch planning are secondary to execution.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:34:57Z"
+  },
+  "3512": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Butchering and cutting meat is highly physical work with minimal information processing.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:34:57Z"
+  },
+  "3513": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Cooking is predominantly hands-on physical work; menu planning and kitchen coordination add minor desk-based components.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:34:57Z"
+  },
+  "3514": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Cooks spend most of their day on hands-on food preparation, timing, and plating; AI could assist with recipe adaptation and inventory but cannot replace the core physical and real-time decision-making work.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:35:30Z"
+  },
+  "3611": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Animal handling and training require physical presence and real-time response to unpredictable animal behaviour; some record-keeping and scheduling could be AI-assisted but this is peripheral to the work.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:35:30Z"
+  },
+  "3613": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Veterinary nurses assist with animal procedures and handling, requiring physical presence and hands-on skills; administrative tasks like record-keeping could be automated but represent a minority of daily work.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:35:30Z"
+  },
+  "3621": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Florists' primary work is hands-on flower arrangement and design; while ordering and customer management could benefit from AI, the core physical artistry cannot.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:35:30Z"
+  },
+  "3623": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Sports turf managers balance hands-on field work with planning, scheduling maintenance, and assessing turf health; AI tools could support planning and data analysis but field operations remain physical.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:35:30Z"
+  },
+  "3624": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Nurserypersons' work is primarily physical: propagating, transplanting, and tending plants; limited desk-based tasks means AI assistance is minimal.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:35:30Z"
+  },
+  "3625": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Arboriculture requires climbing, cutting, and specialized equipment use in unpredictable environments; the work is almost entirely physical and safety-critical.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:35:30Z"
+  },
+  "3626": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Gardening is predominantly physical outdoor work: planting, weeding, soil preparation; minimal digital or analytical components.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:35:30Z"
+  },
+  "3627": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Landscape gardeners spend significant time on design planning, layout assessment, and technical system design; while installation remains physical, planning and analysis could be substantially AI-assisted.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:35:30Z"
+  },
+  "3631": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Senior aquaculture and forestry workers focus on planning, monitoring crop/stock health, quality control, and decision-making; these analytical and administrative tasks overlap heavily with AI capabilities.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:35:30Z"
+  },
+  "3632": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Senior livestock managers spend much of their time on herd planning, health assessment, breeding decisions, and record-keeping; these planning and analytical tasks could be substantially aided by AI tools.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:35:30Z"
+  },
+  "3633": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Shearers perform highly physical specialized work; wool classers assess quality through visual and tactile judgment, which is partially analytical but remains largely hands-on and experiential.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:35:30Z"
+  },
+  "3911": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Hairdressing is fundamentally hands-on physical work requiring in-person presence and real-time customer interaction; administrative booking and record-keeping are minor components.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:35:30Z"
+  },
+  "3921": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Print finishers operate machinery and perform manual finishing work with quality control; while some planning could be automated, most daily tasks are operational or physical.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:35:30Z"
+  },
+  "3922": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Graphic pre-press workers spend most of their time on file preparation, colour management, and layout work: computer-based tasks where AI tools for image processing, layout optimization, and format conversion could substantially assist.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:35:30Z"
+  },
+  "3923": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Printers operate machinery, troubleshoot technical issues, and manage setup; while some planning and documentation could be automated, the operational work remains hands-on.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:35:30Z"
+  },
+  "3931": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Canvas and leather goods makers perform artisanal handwork: cutting, stitching, and finishing; the craft is almost entirely physical and hands-on.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:35:30Z"
+  },
+  "3932": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Clothing trades workers spend most time sewing, tailoring, and fitting; some design and pattern-making could be computer-assisted, but hands-on work dominates.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:35:30Z"
+  },
+  "3933": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Upholstering is primarily hands-on craft work requiring physical dexterity, cutting, stitching, and material handling; while initial design consultation could be AI-assisted, the core tasks remain manual.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:36:14Z"
+  },
+  "3941": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Furniture making involves substantial hand-tool work, assembly, and finishing, though design consultation and customer communication could benefit from AI assistance.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:36:14Z"
+  },
+  "3942": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Wood machining is predominantly hands-on operation of equipment and material handling; AI cannot meaningfully assist with the physical cutting, shaping, and safety-critical aspects.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:36:14Z"
+  },
+  "3991": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Boat building is fundamentally physical work involving material handling, fitting, and assembly; while initial design and blueprint review could be AI-assisted, the majority of tasks require hands-on craftsmanship.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:36:14Z"
+  },
+  "3992": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Plant operations involve continuous monitoring, data interpretation, and system adjustments; AI tools could assist with alert prioritization and pattern recognition, but physical inspection and safety-critical decisions require on-site presence.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:36:14Z"
+  },
+  "3993": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Museum technicians balance information work (cataloguing, metadata, archival documentation) with hands-on conservation and display; AI could substantially assist with data management and research, but preservation requires specialized hands-on expertise.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:36:14Z"
+  },
+  "3994": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Jewellery making is primarily hands-on craftwork involving precise material handling, stone-cutting, and assembly; while design sketches and customer consultation could be AI-assisted, physical creation remains central.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:36:14Z"
+  },
+  "3995": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Performing arts technicians manage both technical design and live operational tasks; AI could assist with initial lighting/sound designs and technical planning, but real-time setup and performance cuing require on-site expertise.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:36:14Z"
+  },
+  "3996": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Sign writing involves design consultation and hands-on execution; AI could assist with typography options and visual mockups, but surface preparation and physical application of lettering or vinyl remain hands-on tasks.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:36:14Z"
+  },
+  "3999": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Miscellaneous technicians engage primarily in hands-on technical and craft work; while technical planning and design documentation could be AI-assisted, the majority of tasks require practical hands-on expertise.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:36:14Z"
+  },
+  "4111": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Paramedics perform hands-on emergency medical care requiring physical presence and real-time clinical judgment; while documentation and hospital communication could be AI-assisted, the core emergency response and patient treatment remain fundamentally hands-on.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:36:14Z"
+  },
+  "4112": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Dental hygiene involves hands-on patient care, x-ray interpretation, and equipment sterilization; while patient education materials and routine documentation could be AI-assisted, direct clinical care remains hands-on.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:36:14Z"
+  },
+  "4113": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Diversional therapists balance activity planning and documentation with direct patient engagement; AI could assist with program design and documentation, but the core work is real-time therapeutic adaptation to patient responses.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:36:14Z"
+  },
+  "4114": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Enrolled nurses perform direct patient care including personal hygiene, medication support, and wound care; while documentation and patient education could be AI-assisted, the majority of work is hands-on physical care.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:36:14Z"
+  },
+  "4115": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Indigenous health workers combine health education, community outreach, and patient liaison; AI could assist with health promotion materials and screening protocols, but the core work is in-person community engagement and cultural mediation.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:36:14Z"
+  },
+  "4116": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Massage therapy is almost entirely hands-on physical work delivering therapeutic touch; AI cannot meaningfully assist with the core service delivery.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:36:14Z"
+  },
+  "4117": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Welfare support workers manage case documentation and assessment alongside direct client support; AI could assist with documentation, case notes, and referral processes, but relationship-building and advocacy require in-person expertise.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:36:14Z"
+  },
+  "4211": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Child care is primarily hands-on supervision, personal care, and play engagement; while activity planning and parent communication could be AI-assisted, the core work requires constant physical presence and real-time judgment.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:36:14Z"
+  },
+  "4221": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Education aides split time between direct student support and administrative work like record-keeping and lesson preparation that AI can assist with.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:37:32Z"
+  },
+  "4231": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Care work is almost entirely hands-on personal assistance and emotional support requiring physical presence and interpersonal judgment.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:37:32Z"
+  },
+  "4232": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Dental chair-side work, sterilization, and x-ray taking are primarily physical procedures with limited desk-based tasks.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:37:32Z"
+  },
+  "4233": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Nursing support roles centre on direct patient care, hygiene assistance, and vital sign monitoring with minimal routine documentation.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:37:32Z"
+  },
+  "4234": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Special care workers provide hands-on support with some coordination and incident documentation that could benefit from AI structuring.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:37:32Z"
+  },
+  "4311": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Baristas spend most time making drinks and engaging with customers, with limited administrative or knowledge-work components.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:37:32Z"
+  },
+  "4312": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Cafe work is primarily food preparation and customer service, both of which require sustained physical presence.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:37:32Z"
+  },
+  "4313": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Gaming venue workers perform on-site monitoring and customer service with some incident reporting capabilities.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:37:32Z"
+  },
+  "4314": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Hotel service managers handle scheduling, staff coordination, guest communication, and operational planning that AI tools can meaningfully assist.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:37:32Z"
+  },
+  "4315": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Waiters spend the vast majority of their time taking orders, serving food, and managing customer interactions in person.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:37:32Z"
+  },
+  "4319": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Hospitality workers perform guest-facing and food-handling roles that are almost entirely physical and interpersonal.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:37:32Z"
+  },
+  "4411": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Defence force members engage in physical training, operations, and equipment handling with occasional documentation.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:37:32Z"
+  },
+  "4412": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Firefighters and emergency responders work in high-risk, unpredictable physical situations requiring real-time judgment and safety.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:37:32Z"
+  },
+  "4413": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Police work combines field operations with substantial report writing, evidence documentation, and data analysis that AI can support.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:37:32Z"
+  },
+  "4421": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Prison officers provide supervision and security monitoring with incident reporting, mostly requiring physical presence.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:37:32Z"
+  },
+  "4422": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Security roles are dominated by physical monitoring, patrol, and presence with limited analytical or documentation work.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:37:32Z"
+  },
+  "4511": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Beauty therapy is entirely hands-on treatment delivery and customer consultation with almost no desk-based components.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:37:32Z"
+  },
+  "4512": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Driving instructors spend most time in-vehicle providing real-time feedback and safety monitoring during active driving.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:37:32Z"
+  },
+  "4513": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Manage ceremonies and coordinate with grieving families - work is in-person and interpersonal with limited administrative tasks.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:38:30Z"
+  },
+  "4514": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Lead in-person tours and interpret exhibits for visitors - core work is situational, on-site engagement.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:38:30Z"
+  },
+  "4515": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Advise clients on grooming and personal styling through consultation - interpersonal, presence-based recommendation.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:38:30Z"
+  },
+  "4516": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Research destinations, design itineraries, and make reservations - mostly research and planning work that LLMs excel at.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:38:30Z"
+  },
+  "4517": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Provide passenger service and manage in-flight safety - work is in-person service delivery requiring human presence.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:38:30Z"
+  },
+  "4518": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Perform various in-person personal service roles - work is primarily situational and interpersonal.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:38:30Z"
+  },
+  "4521": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Design and lead fitness classes and coach individuals - mostly in-person coaching with some program design.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:38:30Z"
+  },
+  "4522": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Lead outdoor activities and manage groups in natural environments - entirely situational and physical work.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:38:30Z"
+  },
+  "4523": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Coach teams, plan training programs, and assess performance - mix of in-person coaching and performance analysis.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:38:30Z"
+  },
+  "4524": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Train and compete in sports - entirely physical performance in competitive contexts.",
+    "score": 0,
+    "scored_at": "2026-08-17T23:38:30Z"
+  },
+  "5111": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Track contracts, monitor projects, and coordinate administrative documentation - desk-based administrative work.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:38:30Z"
+  },
+  "5121": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Manage office operations, coordinate scheduling, and oversee HR administration - administrative work involving planning and coordination.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:38:30Z"
+  },
+  "5122": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Manage practice operations, coordinate scheduling, and oversee staffing and compliance - administrative work in professional settings.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:38:30Z"
+  },
+  "5211": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Schedule meetings, handle correspondence, and organize travel and events - administrative work involving planning and organizing.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:38:30Z"
+  },
+  "5212": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Draft and manage correspondence, organize schedules and documents - desk-based administrative work heavily overlapping with AI capabilities.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:38:30Z"
+  },
+  "5311": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Enter data, organize files, and process documents - structured data processing and documentation work.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:38:30Z"
+  },
+  "5321": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Enter data and transcribe information - computer-based information input that current AI replicates directly.",
+    "score": 8,
+    "scored_at": "2026-08-17T23:38:30Z"
+  },
+  "5411": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Answer service calls, resolve routine customer issues, and document interactions - mix of routine troubleshooting that AI chatbots handle with human judgment needed for complex cases.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:38:30Z"
+  },
+  "5412": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Drafting communications, structuring information, and managing distribution channels are content-creation tasks where AI provides strong first-pass support.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:39:21Z"
+  },
+  "5421": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Greeting and in-person reception work requires human presence, though scheduling, data entry, and phone routing can be substantially assisted by AI.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:39:21Z"
+  },
+  "5511": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Recording transactions, reconciling accounts, and generating financial reports are structured data tasks where AI excels at classification and reconciliation.",
+    "score": 8,
+    "scored_at": "2026-08-17T23:39:21Z"
+  },
+  "5512": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Maintaining ledgers, reconciling accounts, and recording transactions are rule-based financial data work integral to the role.",
+    "score": 8,
+    "scored_at": "2026-08-17T23:39:21Z"
+  },
+  "5513": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Payroll processing, calculating deductions, and generating payslips are rule-based calculations and structured data manipulation.",
+    "score": 8,
+    "scored_at": "2026-08-17T23:39:21Z"
+  },
+  "5521": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Customer service and cash handling require in-person presence, but transaction processing, data entry, and account management are AI-amenable.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:39:21Z"
+  },
+  "5522": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Processing applications, reviewing documents, and assessing creditworthiness involve document analysis and data classification where AI provides substantial support.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:39:21Z"
+  },
+  "5523": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Processing claims and quotes, calculating premiums, and maintaining statistical records are structured data and calculation work.",
+    "score": 8,
+    "scored_at": "2026-08-17T23:39:21Z"
+  },
+  "5611": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Betting venue work requires in-person customer service and cash handling, though bet recording and payout calculations can be automated.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:39:21Z"
+  },
+  "5612": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Physical delivery of mail and packages to addresses requires human presence and movement; no substantial task overlap with digital AI.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:39:21Z"
+  },
+  "5613": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Organizing, indexing, and retrieving documents are tasks where AI-driven classification, OCR, and search tools substantially overlap.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:39:21Z"
+  },
+  "5614": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Physically sorting and organizing mail is primarily manual handling; barcode scanning and data entry represent the only AI-amenable portion.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:39:21Z"
+  },
+  "5615": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Conducting surveys and building rapport with respondents requires in-person or phone interaction, though data recording and analysis can be automated.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:39:21Z"
+  },
+  "5616": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Call routing, providing information, and scheduling can be substantially handled by AI voice systems and automated matching.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:39:21Z"
+  },
+  "5619": {
+    "model": "claude-cli (haiku)",
+    "rationale": "General administrative work including scheduling, correspondence, data entry, and document management overlaps significantly with AI capabilities.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:39:21Z"
+  },
+  "5911": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Processing purchase orders, matching suppliers, and managing inventory are procurement and logistics tasks where AI can automate classification and optimization.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:39:21Z"
+  },
+  "5912": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Scheduling deliveries, tracking packages, and coordinating dispatch are computational coordination tasks; some physical warehouse work remains.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:39:21Z"
+  },
+  "5991": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Drafting legal documents, reviewing contracts, and identifying clauses are information work where AI can produce first-pass versions and highlight key sections.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:39:21Z"
+  },
+  "5992": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Document drafting, case file management, correspondence and records organization are primarily desk-based information work where AI assists substantially, though legal accuracy and compliance context remain human-dependent.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:40:19Z"
+  },
+  "5993": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Core negotiation and judgment in debtor contact is interpersonal, but outreach letter composition, account tracking, payment documentation and administrative follow-up benefit significantly from AI assistance.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:40:19Z"
+  },
+  "5994": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Payroll processing, benefits administration, onboarding coordination and employee record management are structured information work where AI can assist with calculations, document generation and compliance tracking.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:40:19Z"
+  },
+  "5995": {
+    "model": "claude-cli (haiku)",
+    "rationale": "On-site compliance assessment and environmental judgment calls are essential and situational, though documentation, evidence analysis and regulatory report drafting can benefit substantially from AI assistance.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:40:19Z"
+  },
+  "5996": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Blend of on-site claims assessment and scene investigation alongside desk work analyzing evidence, interviewing details and drafting detailed investigation reports where AI can support analysis and documentation.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:40:19Z"
+  },
+  "5997": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Work is predominantly hands-on: shelving physical materials, patron assistance and circulation management with minimal substantive desk-based information tasks.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:40:19Z"
+  },
+  "5999": {
+    "model": "claude-cli (haiku)",
+    "rationale": "General filing, data entry, correspondence and scheduling are desk-based information tasks where AI can generate letters, organize records and manage simple administrative workflows.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:40:19Z"
+  },
+  "6111": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Real-time auctioneering and live negotiation are situational and interpersonal, though property valuation, comparative research, client correspondence and marketing preparation benefit from AI analysis.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:40:19Z"
+  },
+  "6112": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Policy comparison, quote generation, customer research and follow-up correspondence are substantially automatable with AI, balanced against client consultation and risk assessment requiring human judgment.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:40:19Z"
+  },
+  "6113": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Lead research, proposal drafting, comparison analysis and follow-up communication are desk-based tasks where AI can generate first drafts, though client needs assessment and negotiation remain human-led.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:40:19Z"
+  },
+  "6121": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Property marketing, comparative market analysis, contract coordination and follow-up correspondence are information work where AI assists substantially, balanced against property showing and negotiation as human-led.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:40:19Z"
+  },
+  "6211": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Work is predominantly in-person: customer service, transaction processing, stocking shelves and assistance with minimal information-based tasks beyond till operation.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:40:19Z"
+  },
+  "6212": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Product demonstration and technical consultation require hands-on customer interaction and domain knowledge, though AI can assist with product research, specs comparison and follow-up technical guidance.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:40:19Z"
+  },
+  "6213": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Vehicle demonstration, test drives and negotiation are interpersonal, but contract paperwork, market research, inventory management and customer follow-up benefit from AI assistance.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:40:19Z"
+  },
+  "6214": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Work is predominantly in-person: customer service, over-the-counter product recommendation, basic health information and transaction processing.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:40:19Z"
+  },
+  "6215": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Staff coordination, rostering and inventory management have information components where AI assists, but customer service escalation and team supervision require substantial interpersonal judgment.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:40:19Z"
+  },
+  "6216": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Work is largely hands-on and transactional: operating pumps, processing till transactions, forecourt assistance and customer service with minimal substantive information work.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:40:19Z"
+  },
+  "6217": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Direct sales emphasizing in-person customer interaction, negotiation, cash handling and immediate transaction processing with minimal desk-based or information-work components.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:40:19Z"
+  },
+  "6219": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Sales assistance combines customer service with admin work; routine tasks like email, data entry, and lead qualification are AI-exposable, but customer interaction and negotiation remain central.",
+    "score": 5,
+    "scored_at": "2026-08-17T23:41:15Z"
+  },
+  "6311": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Transaction processing (scanning, payment handling) is almost entirely physical and immediate; minimal desk work means low AI exposure.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:41:15Z"
+  },
+  "6391": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Modeling and demonstration are appearance-based and require physical in-person presence; AI cannot replicate this.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:41:15Z"
+  },
+  "6392": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Buying requires significant data analysis (trend forecasting, supplier cost evaluation) that AI tools handle well, alongside supplier relationships and site visits.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:41:15Z"
+  },
+  "6393": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Telemarketing balances human persuasion (cold calling, objection handling) with routine tasks (lead scoring, CRM logging) that AI increasingly automates.",
+    "score": 6,
+    "scored_at": "2026-08-17T23:41:15Z"
+  },
+  "6394": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Ticket sales are largely transactional - booking, payment processing, refunds - work that automated booking systems and chatbots now handle routinely.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:41:15Z"
+  },
+  "6395": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Visual merchandising is creative, spatial work requiring hands-on product arrangement; AI can suggest layouts but cannot execute the physical design.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:41:15Z"
+  },
+  "6399": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Sales support is primarily data entry, filing, order processing, and routine customer queries - all information-processing work that AI performs effectively.",
+    "score": 7,
+    "scored_at": "2026-08-17T23:41:15Z"
+  },
+  "7111": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Machine operation requires physical presence and real-time troubleshooting in clay, concrete, glass, or stone manufacturing environments.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:41:15Z"
+  },
+  "7112": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Spray painting demands real-time hand-eye coordination and adjustment for surface conditions; the work is entirely physical.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:41:15Z"
+  },
+  "7113": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Paper and wood processing machine operation requires real-time presence and troubleshooting based on material properties.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:41:15Z"
+  },
+  "7114": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Photography roles have shifted toward digital work where some tasks (color correction, quality analysis) overlap with AI capability, though equipment operation remains hands-on.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:41:15Z"
+  },
+  "7115": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Plastics and rubber machinery operation requires physical presence, material handling, and real-time equipment troubleshooting.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:41:15Z"
+  },
+  "7116": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Sewing machine operation is purely manual, requiring hand-eye coordination and rapid fabric handling.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:41:15Z"
+  },
+  "7117": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Textile and footwear production requires physical machine operation and real-time troubleshooting in manufacturing environments.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:41:15Z"
+  },
+  "7119": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Machinery operation requires physical presence and real-time problem-solving across diverse manufacturing contexts.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:41:15Z"
+  },
+  "7121": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Crane and hoist operation is safety-critical work requiring real-time spatial judgment on site; AI cannot operate equipment or be physically present.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:41:15Z"
+  },
+  "7122": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Drilling, mining, and shot-firing are physically hazardous work requiring real-time judgment in difficult field conditions; AI cannot perform these.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:41:15Z"
+  },
+  "7123": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Equipment operation involves digital control interfaces and system monitoring, but hands-on machinery operation and physical maintenance dominate the role.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:42:15Z"
+  },
+  "7129": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Stationary plant operators monitor digital control systems and record parameters, though equipment operation and maintenance remain core work.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:42:15Z"
+  },
+  "7211": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Agricultural machinery operation is primarily hands-on control in unpredictable outdoor environments with minimal information work.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:42:15Z"
+  },
+  "7212": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Earthmoving plant operation requires real-time situational control and manual equipment handling on construction sites.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:42:15Z"
+  },
+  "7213": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Forklift driving is hands-on equipment control and material handling with minimal digital task components.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:42:15Z"
+  },
+  "7219": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Mobile plant operation is manual equipment control with situational awareness requirements and limited information work.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:42:15Z"
+  },
+  "7311": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Automobile driving remains primarily manual vehicle control, though routing and navigation are increasingly AI-assisted.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:42:15Z"
+  },
+  "7312": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Bus operation involves manual control on fixed routes with passenger safety responsibilities requiring in-person judgment.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:42:15Z"
+  },
+  "7313": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Train operation remains largely manual control despite automation, with real-time safety decision-making on fixed routes.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:42:15Z"
+  },
+  "7321": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Delivery drivers coordinate AI-assisted routes and customer communication via email and text, though driving and package handling remain the majority of time.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:42:15Z"
+  },
+  "7331": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Truck drivers manage logistics coordination, route planning, and administrative documentation, but driving and cargo handling dominate actual work hours.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:42:15Z"
+  },
+  "7411": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Storepersons use inventory systems and manage documentation, though physical material handling and stock organization form the majority of the role.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:42:15Z"
+  },
+  "8111": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Car detailing is almost entirely hands-on physical work with no meaningful digital or information task components.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:42:15Z"
+  },
+  "8112": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Commercial cleaning is entirely hands-on physical labor with no digital or information task exposure.",
+    "score": 0,
+    "scored_at": "2026-08-17T23:42:15Z"
+  },
+  "8113": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Domestic cleaning is almost entirely physical work, though some may interact with booking or payment systems.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:42:15Z"
+  },
+  "8114": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Housekeepers perform mostly physical work but handle some administrative scheduling, ordering, and documentation tasks.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:42:15Z"
+  },
+  "8115": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Laundry workers operate equipment and perform physical handling with minimal digital or information task components.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:42:15Z"
+  },
+  "8116": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Other cleaning is entirely hands-on physical labor with no meaningful exposure to digital or information tasks.",
+    "score": 0,
+    "scored_at": "2026-08-17T23:42:15Z"
+  },
+  "8211": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Wholly physical work assisting tradies with materials, mixing concrete, and on-site support.",
+    "score": 0,
+    "scored_at": "2026-08-17T23:42:50Z"
+  },
+  "8212": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Physically laying and finishing concrete surfaces, intrinsically hands-on work.",
+    "score": 0,
+    "scored_at": "2026-08-17T23:42:50Z"
+  },
+  "8213": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Physically installing fence posts, panels, and gates requiring manual labour.",
+    "score": 0,
+    "scored_at": "2026-08-17T23:42:50Z"
+  },
+  "8214": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Physically installing insulation and weatherproofing materials with minimal information work.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:42:50Z"
+  },
+  "8215": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Physically laying and finishing paving and asphalt surfaces.",
+    "score": 0,
+    "scored_at": "2026-08-17T23:42:50Z"
+  },
+  "8216": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Physically laying and maintaining railway tracks with basic planning and measurement.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:42:50Z"
+  },
+  "8217": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Skilled physical work erecting, bolting, and welding structural steel.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:42:50Z"
+  },
+  "8219": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Broadly physical work on construction sites and mining operations.",
+    "score": 0,
+    "scored_at": "2026-08-17T23:42:50Z"
+  },
+  "8311": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Operating food production equipment and monitoring processes with routine quality checks.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:42:50Z"
+  },
+  "8312": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Highly skilled manual precision work butchering, boning, and slicing meat.",
+    "score": 0,
+    "scored_at": "2026-08-17T23:42:50Z"
+  },
+  "8313": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Operating meat processing machinery and handling materials with basic monitoring.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:42:50Z"
+  },
+  "8321": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Repetitively packing items into containers with basic counting and packaging checks.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:42:50Z"
+  },
+  "8322": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Assembling product components on production lines with quality verification and counting.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:42:50Z"
+  },
+  "8391": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Operating metal working machinery, finishing products, and performing routine inspection work.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:42:50Z"
+  },
+  "8392": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Operating factory machinery and monitoring plastics and rubber production processes.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:42:50Z"
+  },
+  "8393": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Inspecting and testing products, recording defects, classifying results, and entering quality data.",
+    "score": 4,
+    "scored_at": "2026-08-17T23:42:50Z"
+  },
+  "8394": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Operating wood processing machinery like saws and planers with routine monitoring.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:42:50Z"
+  },
+  "8399": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Operating factory equipment and monitoring general production processes with basic checks.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:42:50Z"
+  },
+  "8421": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Aquaculture work involves physical system maintenance, feeding, and monitoring with some data recording on stock and environmental conditions.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:43:31Z"
+  },
+  "8422": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Crop farming combines physical field work (planting, harvesting, weeding) with occasional recording of yields and weather.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:43:31Z"
+  },
+  "8423": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Livestock care is primarily physical work (feeding, health checks, mucking) with minimal desk-based record-keeping.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:43:31Z"
+  },
+  "8424": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Mixed farming requires physical labor across crop and livestock operations with little information-processing content.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:43:31Z"
+  },
+  "8431": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Logging and forestry work demands continuous on-site physical labor in unpredictable environments.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:43:31Z"
+  },
+  "8432": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Garden labor involves digging, planting, weeding, and landscaping with no meaningful desk component.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:43:31Z"
+  },
+  "8433": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Nursery work is physically demanding (potting, propagating, watering) with occasional inventory and order management.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:43:31Z"
+  },
+  "8434": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Pest control requires on-site chemical application, equipment maintenance, and significant written reports on treatments.",
+    "score": 3,
+    "scored_at": "2026-08-17T23:43:31Z"
+  },
+  "8439": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Forestry and garden maintenance work is predominantly physical labor with minimal office work.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:43:31Z"
+  },
+  "8511": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Fast food cooking requires constant on-site physical work under time pressure with minor ordering and stock management.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:43:31Z"
+  },
+  "8512": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Food trades assistance is primarily hands-on food preparation and equipment handling with little documentation.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:43:31Z"
+  },
+  "8513": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Kitchen work consists of washing dishes, food prep, and sanitation with minimal record-keeping.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:43:31Z"
+  },
+  "8911": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Freight handling is entirely physical work loading, unloading, and moving goods in dynamic environments.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:43:31Z"
+  },
+  "8912": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Shelf filling involves stocking and rotating merchandise with basic inventory tracking.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:43:31Z"
+  },
+  "8991": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Caretaker duties combine physical maintenance and cleaning with occasional inspection and maintenance reporting.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:43:31Z"
+  },
+  "8992": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Fishing and deck work are physically demanding operations requiring constant on-site presence in unpredictable conditions.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:43:31Z"
+  },
+  "8993": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Handyperson repairs and maintenance require on-site physical work and immediate problem-solving judgment.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:43:31Z"
+  },
+  "8994": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Vehicle parts fitting is mostly hands-on installation, testing, and adjustment with minimal written documentation.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:43:31Z"
+  },
+  "8995": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Printing assistants spend their time on hands-on equipment operation, paper feeding, cutting, and collation with no meaningful AI-touchable tasks.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:43:56Z"
+  },
+  "8996": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Rubbish collection is entirely physical sorting and loading operations in varied environments where current AI tools cannot meaningfully assist.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:43:56Z"
+  },
+  "8997": {
+    "model": "claude-cli (haiku)",
+    "rationale": "Vending machine attendants' work is mostly physical restocking and maintenance with only minor routine inventory tracking amenable to AI assistance.",
+    "score": 2,
+    "scored_at": "2026-08-17T23:43:56Z"
+  },
+  "8999": {
+    "model": "claude-cli (haiku)",
+    "rationale": "This catch-all category encompasses primarily physical general labor roles like packing and material handling with minimal desk-based information work.",
+    "score": 1,
+    "scored_at": "2026-08-17T23:43:56Z"
+  }
+}

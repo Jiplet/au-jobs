@@ -1,0 +1,21 @@
+[project]
+name = "au-jobs"
+version = "0.1.0"
+description = "The Australian labour market as one treemap, coloured by an LLM-scored question you choose"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.32",
+    "openpyxl>=3.1",
+    "pandas>=2.2",
+    "anthropic>=0.40",
+    "pyyaml>=6.0",
+    "tenacity>=9.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

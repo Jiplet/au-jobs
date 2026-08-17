@@ -1,0 +1,64 @@
+# Every external data source this project pulls, with the exact URL used, the release or
+# vintage it belongs to, the date it was verified reachable, and its licence.
+#
+# fetch.py reads this file. If a government department renames a release or moves a file
+# (the ABS "Labour Force, Australia, Detailed" product was flagged as being retired at the
+# time this was written), update the url and vintage here rather than hardcoding paths in
+# fetch.py.
+
+abs_eq08:
+  name: "ABS Labour Force, Australia, Detailed - table EQ08"
+  description: >
+    Employed persons by Occupation unit group of main job (ANZSCO), Sex, State and
+    Territory. Pivot-table cube, monthly series back to August 1986. Used for the
+    employment (headcount) layer, at ANZSCO 4-digit unit group.
+  url: "https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia-detailed/mar-2026/EQ08.xlsx"
+  release: "March 2026 (final release under this product name; ABS is transitioning this series)"
+  verified: "2026-08-17"
+  licence: "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  licence_url: "https://www.abs.gov.au/website-privacy-copyright-and-disclaimer"
+
+abs_earnings:
+  name: "ABS Employee Earnings and Hours, Australia - Data Cube 11"
+  description: >
+    Average weekly total cash earnings by detailed occupation (ANZSCO 4-digit unit
+    group), sex, average age. Biennial survey. Used for the median earnings layer.
+  url: "https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/employee-earnings-and-hours-australia/may-2025/63060DO011_202505.xlsx"
+  release: "May 2025 (released 23 January 2026)"
+  verified: "2026-08-17"
+  licence: "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  licence_url: "https://www.abs.gov.au/website-privacy-copyright-and-disclaimer"
+
+abs_anzsco_structure:
+  name: "ABS ANZSCO 2022 classification structure"
+  description: >
+    The full ANZSCO hierarchy (major group through to 6-digit occupation) with titles.
+    Used to build the canonical code and title list and the major-group lookup.
+  url: "https://www.abs.gov.au/statistics/classifications/anzsco-australian-and-new-zealand-standard-classification-occupations/2022/anzsco%202022%20structure%20062023.xlsx"
+  release: "ANZSCO 2022, structure file published June 2023"
+  verified: "2026-08-17"
+  licence: "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  licence_url: "https://www.abs.gov.au/website-privacy-copyright-and-disclaimer"
+
+jsa_employment_projections:
+  name: "Jobs and Skills Australia - Employment Projections"
+  description: >
+    Projected employment by occupation, 5-year (to May 2030) and 10-year (to May 2035)
+    horizons, ANZSCO 4-digit unit group. Used for the projected growth layer.
+  url: "https://www.jobsandskills.gov.au/sites/default/files/2025-11/employment_projections_-_may_2025_to_may_2035.xlsx"
+  release: "May 2025 to May 2035"
+  verified: "2026-08-17"
+  licence: "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  licence_url: "https://www.jobsandskills.gov.au/copyright"
+
+jsa_unit_group_shortage:
+  name: "Jobs and Skills Australia - Unit Group Shortage List, 4-digit ANZSCO"
+  description: >
+    National skills shortage rating pre-aggregated to ANZSCO 4-digit unit group (a
+    weighted roll-up of the underlying 6-digit occupation shortage ratings). Used for
+    the skills shortage layer.
+  url: "https://www.jobsandskills.gov.au/sites/default/files/2025-10/2025%20Unit%20Group%20Shortage%20List%20-%204%20digit%20ANZSCO.xlsx"
+  release: "2025 Occupation Shortage List cycle"
+  verified: "2026-08-17"
+  licence: "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  licence_url: "https://www.jobsandskills.gov.au/copyright"

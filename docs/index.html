@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>au-jobs: the Australian labour market as one treemap</title>
+<meta name="description" content="Every ANZSCO occupation as a rectangle, sized by employment and coloured by earnings, growth, skills shortage, or LLM-scored AI exposure.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>au-jobs
+    <span class="sub">The Australian labour market, one rectangle per occupation</span>
+  </h1>
+  <div class="controls">
+    <label for="layer-select">Colour by</label>
+    <select id="layer-select">
+      <option value="ai_exposure">Digital AI exposure</option>
+      <option value="avg_weekly_earnings">Average weekly earnings</option>
+      <option value="growth_5y_pct">Projected growth (5yr)</option>
+      <option value="shortage_rating">Skills shortage</option>
+    </select>
+    <input type="search" id="search" placeholder="Search occupation title..." aria-label="Search occupations">
+    <button class="linklike" id="about-toggle" type="button">About / what this is not</button>
+  </div>
+</header>
+
+<div class="breadcrumb" id="breadcrumb">
+  <button id="crumb-root" type="button">All occupations</button>
+</div>
+
+<div class="no-data-banner" id="no-data-banner" style="display:none;"></div>
+
+<main>
+  <svg id="treemap"></svg>
+  <div id="tooltip"></div>
+  <div class="legend" id="legend"></div>
+  <div id="about-panel">
+    <h3>What this is</h3>
+    <p>A treemap of every ANZSCO 4-digit occupation unit group in Australia. Area is
+    employment (people). Colour is whichever metric you pick above. Built from public
+    ABS and Jobs and Skills Australia data. Source and code:
+    <a href="https://github.com/Jiplet/au-jobs" target="_blank" rel="noopener">github.com/Jiplet/au-jobs</a>.</p>
+    <h3>What "digital AI exposure" is NOT</h3>
+    <ul>
+      <li>Not a job-loss or unemployment forecast.</li>
+      <li>Not a model of demand elasticity: a high score can sit next to growing demand.</li>
+      <li>Not a model of regulation, licensing, or professional gatekeeping.</li>
+      <li>Not a model of people's preference for dealing with a human.</li>
+      <li>A rough LLM estimate from a title and major group, not a validated survey.</li>
+    </ul>
+  </div>
+</main>
+
+<script src="vendor/d3.v7.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
