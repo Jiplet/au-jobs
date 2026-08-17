@@ -3,6 +3,8 @@
 The Australian labour market as one picture: every occupation is a rectangle, sized by
 how many people do it, coloured by whichever question you want to ask of the data.
 
+**Live map: [jiplet.github.io/au-jobs](https://jiplet.github.io/au-jobs/)**
+
 ![au-jobs treemap: every ANZSCO occupation, area = employment, colour = LLM-scored digital AI exposure](docs/screenshot.png)
 
 *Employment from the February 2026 quarter, coloured by the digital AI exposure layer. Darker means more of the day-to-day work overlaps with what current AI tools already do; it says nothing about headcount.*
